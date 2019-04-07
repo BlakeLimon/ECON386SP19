@@ -1,0 +1,18 @@
+-This data contains observations from the last year of company X's sales for a particular product line
+sold exclusively through their online retail and distribution website.  
+
+-The first observation corresponds to activity on January 1st of the year and observations are recorded at the
+close of each daily in sequence.
+
+-Sales are total revenues measured in dollars for the product line in question.
+
+-Price is the products price as listed on the distribution platform (website) on a given day.
+
+-Ad Spending is the amount of social media ad spending measured in dollars and aggregated 
+across modes of social media.
+
+-Impressions measure the total social media impressionsfrom the company's and product's social media pages
+aggregated across modes of social media.
+
+-Pomotion is a binary variable indicating whether or not the company ran a webside-wide promotion is also recorded 
+for each day.
