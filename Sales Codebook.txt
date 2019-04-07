@@ -2,7 +2,7 @@
 sold exclusively through their online retail and distribution website.  
 
 -The first observation corresponds to activity on January 1st of the year and observations are recorded at the
-close of each daily in sequence.
+close of each day in sequence.
 
 -Sales are total revenues measured in dollars for the product line in question.
 
